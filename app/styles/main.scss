@@ -4,7 +4,7 @@ $red: #b4282e;
 
   body {
     padding:0px;
-    background-image:url("/images/backgroundimg");
+    background-image:url("../images/backgroundimg");
     background-size: 100% 100%;
     background-attachment: fixed;
 
@@ -32,7 +32,7 @@ $red: #b4282e;
     width:130px;
     height:50px;
     display:none;
-    background-image:url("/images/ticker.png");
+    background-image:url("../images/ticker.png");
     background-size:contain;
     background-repeat:no-repeat;
     color:white;
@@ -120,7 +120,7 @@ $red: #b4282e;
     position:absolute;
     bottom:0px;
     opacity:.3;
-    background-image:url("/images/grid.png");
+    background-image:url("../images/grid.png");
     width:100%;
     height:100%;
     z-index:2;
@@ -150,17 +150,17 @@ $red: #b4282e;
       height:290px;
     }
     .slide1 {
-      background-image:url("/images/slidepic1.png");
+      background-image:url("../images/slidepic1.png");
       background-size:cover;
       background-position: 70% 30%;
     }
     .slide2 {
-      background-image:url("/images/slidepic2.png");
+      background-image:url("../images/slidepic2.png");
       background-size:cover;
       background-position: 66% 37%;
     }
     .slide3 {
-      background-image:url("/images/slidepic3.png");
+      background-image:url("../images/slidepic3.png");
       background-size:cover;
       background-position: 70% 60%;
     }
@@ -270,25 +270,25 @@ $red: #b4282e;
   }
 
   .picture1 {
-    background-image:url("/images/lance.png");
+    background-image:url("../images/lance.png");
     background-size:cover;
     background-position: 66% 37%;
   }
 
   .picture2 {
-    background-image:url("/images/rodney.png");
+    background-image:url("../images/rodney.png");
     background-size:cover;
     background-position: 66% 37%;
   }
 
   .picture3 {
-    background-image:url("/images/steve.png");
+    background-image:url("../images/steve.png");
     background-size:cover;
     background-position: 66% 37%;
   }
 
   .picture4 {
-    background-image:url("/images/tommy.png");
+    background-image:url("../images/tommy.png");
     background-size:cover;
     background-position: 66% 37%;
   }
@@ -355,43 +355,43 @@ $red: #b4282e;
   }
 
   .board1 {
-    background-image:url("/images/board1.png");
+    background-image:url("../images/board1.png");
     background-size:contain;
   }
   .board2 {
-    background-image:url("/images/board2.png");
+    background-image:url("../images/board2.png");
     background-size:contain;
   }
   .board3 {
-    background-image:url("/images/board3.png");
+    background-image:url("../images/board3.png");
     background-size:contain;
   }
   .board4 {
-    background-image:url("/images/board4.png");
+    background-image:url("../images/board4.png");
     background-size:contain;
   }
   .board5 {
-    background-image:url("/images/board5.png");
+    background-image:url("../images/board5.png");
     background-size:contain;
   }
   .board6 {
-    background-image:url("/images/board6.png");
+    background-image:url("../images/board6.png");
     background-size:contain;
   }
   .board7 {
-    background-image:url("/images/board7.png");
+    background-image:url("../images/board7.png");
     background-size:contain;
   }
   .board8 {
-    background-image:url("/images/board8.png");
+    background-image:url("../images/board8.png");
     background-size:contain;
   }
   .board9 {
-    background-image:url("/images/board9.png");
+    background-image:url("../images/board9.png");
     background-size:contain;
   }
   .board10 {
-    background-image:url("/images/board10.png");
+    background-image:url("../images/board10.png");
     background-size:contain;
   }
   //////////BOTTOM
